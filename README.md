@@ -1,6 +1,6 @@
 # Hey there , I'm Solijonov Qodirjon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://ichi.pro/assets/images/max/724/0*C-cPP9D2MIyeexAT.gif" width="340" height="250" />
+<img align="right" alt="GIF" src="https://ichi.pro/assets/images/max/724/0*C-cPP9D2MIyeexAT.gif??raw=true" width="340" height="250" />
 
 - 👀 I’m interested in developing👨‍💻
 - 🌱 I’m currently learning Typescript 
@@ -19,14 +19,6 @@
 - For now I'm Software Engineer at [Advantest](https://www.advantest.com/) and also persuing Bacholor of Engineering in Computer Science. 
 
 <br/>
-<br/>
-
-## Get in touch :coffee:
-
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/prahlad-j-shenoy).
-- And of-course GitHub you're already on [Recursion](https://github.com/prahladjshenoy).
-
-
 <br/>
 
 ## Languages and Tools:
