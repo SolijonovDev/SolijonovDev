@@ -1,6 +1,6 @@
 # Hey there , I'm Solijonov Qodirjon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/724/0*C-cPP9D2MIyeexAT.gif" width="340" height="250" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/724/0*C-cPP9D2MIyeexAT.gif" width="280" height="200" />
 
 - 👀 I’m interested in developing👨‍💻
 - 🌱 I’m currently learning Typescript 
