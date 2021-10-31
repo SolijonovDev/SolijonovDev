@@ -9,7 +9,7 @@
 
 <br/>
 
-<img align="left" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code2.gif?raw=true" width="420" height="280" />
+<img align="left" alt="GIF" src="https://i.gifer.com/origin/37/3711acfbd018098b0d19dd448eb2a066_w200.webp" width="420" height="280" />
  
 
 ## Languages and Tools:
