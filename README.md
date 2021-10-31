@@ -1,25 +1,16 @@
 # Hey there , I'm Solijonov Qodirjon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/724/0*C-cPP9D2MIyeexAT.gif" width="280" height="200" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/724/0*C-cPP9D2MIyeexAT.gif" width="280" height="100" />
 
 - 👀 I’m interested in developing👨‍💻
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m Frontend developer 
 - 😄 My age 23
-- ⚡ Fun fact: I love to sport🍳 ,travel 🐠 
+- ⚡ Fun fact: I love to sport ,travel 
 
-<br/>
 <br/>
 
 <img align="left" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code2.gif?raw=true" width="420" height="280" />
  
-## About me
-
-- I'm passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
-
-- For now I'm Software Engineer at [Advantest](https://www.advantest.com/) and also persuing Bacholor of Engineering in Computer Science. 
-
-<br/>
-<br/>
 
 ## Languages and Tools:
 
