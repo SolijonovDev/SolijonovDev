@@ -1,16 +1,5 @@
 # Hey there , I'm Solijonov Qodirjon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/724/0*C-cPP9D2MIyeexAT.gif" width="280" height="100" />
-
-- 👀 I’m interested in developing👨‍💻
-- 🌱 I’m Frontend developer 
-- 😄 My age 23
-- ⚡ Fun fact: I love to sport ,travel 
-
-<br/>
-
-<img align="left" alt="GIF" src="https://i.gifer.com/origin/37/3711acfbd018098b0d19dd448eb2a066_w200.webp" width="420" height="280" />
- 
 
 ## Languages and Tools:
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
